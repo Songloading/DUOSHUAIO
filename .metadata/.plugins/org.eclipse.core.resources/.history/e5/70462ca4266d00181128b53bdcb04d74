@@ -21,8 +21,4 @@ If no such index exists, we should return -1. If there are multiple pivot indexe
         }
         return -1;
     }
-	
-/**
- * Using Two loops to find every index's left and right sums and check. O(n^2)
- */
 }

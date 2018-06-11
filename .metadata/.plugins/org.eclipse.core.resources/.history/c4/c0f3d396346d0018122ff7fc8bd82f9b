@@ -26,10 +26,5 @@ To invert an image means that each 0 is replaced by 1, and each 1 is replaced by
 	        return A;
 	    }
 	
-	 
-	 /**
-	  *  Outer loop: looping thru 2d array
-	  *  inner loop1: flipping each element
-	  *  inner loop2: invert each one
-	  */
+	
 }
