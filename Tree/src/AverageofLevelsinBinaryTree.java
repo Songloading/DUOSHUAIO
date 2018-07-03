@@ -29,6 +29,7 @@ public class AverageofLevelsinBinaryTree {
 
 	ArrayList<Double> result = new ArrayList<Double>();
 	HashMap<Integer, Integer> store = new HashMap<Integer, Integer>();
+	
 
 	public List<Double> averageOfLevels(TreeNode root) {
 		averageOfLevels(root, 0);
