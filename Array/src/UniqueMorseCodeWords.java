@@ -31,6 +31,6 @@ public class UniqueMorseCodeWords {
         return count;
     }
  /**
-  *  Using a hashset function "contains" to check.
+  *  Using a hashset function "contains" to check. Nothing serious
   */
 }
