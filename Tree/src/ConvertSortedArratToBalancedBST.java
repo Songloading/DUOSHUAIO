@@ -16,6 +16,7 @@ public class ConvertSortedArratToBalancedBST {
         if (start > end) {
             return null;
         }
+
  
         /* Get the middle element and make it root */
         int mid = (start + end) / 2;
