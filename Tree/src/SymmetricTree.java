@@ -1,5 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 public class SymmetricTree {
 /** #101
@@ -71,7 +72,7 @@ public class SymmetricTree {
         }
         return true;
    }
-   /**
+   /** Iteral
     *  Looply add nodes and check corresponding ones.
     */
 }
