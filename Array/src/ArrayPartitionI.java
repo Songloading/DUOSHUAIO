@@ -13,7 +13,7 @@ public class ArrayPartitionI {
    Explanation: n is 2, and the maximum sum of pairs is 4 = min(1, 2) + min(3, 4).
  */
 	public int arrayPairSum(int[] nums) {
-	       Arrays.sort(nums);
+		   Arrays.sort(nums);
 	       int sum=0;
 	       for(int i=0; i<nums.length; i+=2){
 	          sum+=nums[i];
